@@ -29,3 +29,4 @@ end
 
 
 shoe = Shoe.new("Nike")
+shoe.condition("new")
