@@ -28,4 +28,4 @@ class Shoe
 end
 
 
-# shoe = Shoe.new("Nike")
+shoe = Shoe.new("Nike")
