@@ -23,6 +23,9 @@ class Shoe
     @condition =condtion
   end
 
+  def cobble=(condition)
+    @condition = condition
+  end
 end
 
 
