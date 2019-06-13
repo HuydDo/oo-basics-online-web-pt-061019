@@ -27,6 +27,3 @@ class Shoe
   #   @condition = condition
   # end
 end
-
-
-
