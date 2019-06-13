@@ -5,5 +5,5 @@ class Shoe
     @name = name
   end
 
-  
+
 end
